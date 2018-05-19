@@ -20,6 +20,9 @@ $ python usage: main.py [-h] [-i ITERATION] [-m MEMORYSIZE]
 | -i ITERATION               | input the iteration of training                |
 | -m MEMORYSIZE              | input the size of memory                       |
 
+## Game
+![CartPole](img/cartpole.png)
+
 ## Algorithm
 - Double Deep Q Network
   - Initialize Q network with parameters θ
